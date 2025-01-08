@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Zhao Renhuo - Personal Profile"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Zhao Renhuo - Personal Profile
 My name is Zhao Renhuo, and I am from Anqing City, Anhui Province, China. Currently, I am pursuing a Master's degree in Artificial Intelligence at the School of Artificial Intelligence and Computer Science at Jiangnan University. My supervisors are Professors Zhao Hong Deng and Zhiyong Xiao. I completed my undergraduate studies at Anhui University, majoring in Digital Media Technology at the School of Computer Science and Technology.
 
